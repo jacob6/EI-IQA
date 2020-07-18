@@ -1,0 +1,26 @@
+enableTensorboard: True #
+test_during_training: True #
+
+### database ###
+LIVE:
+  datainfo: /project/huangtian/data/LIVEfullinfo.mat
+  im_dir: /project/huangtian/data/databaserelease2/
+  n_distortions: 5
+
+patch_size: 32
+stride: 32
+
+train_ratio: 0.6
+# val_ratio: 0.2  #
+test_ratio: 0.2  #
+
+### model ###
+VGG13plus_IQA:
+  n1_kernels: 64
+  n2_kernels: 128
+  n3_kernels: 256
+  n4_kernels: 512
+  kernel_size: 3
+  pool_size: 2
+  alpha_q: 0.5
+  alpha_d: 0.5
