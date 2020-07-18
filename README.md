@@ -45,7 +45,7 @@ __Note__:you need to install right CUDA version
 
 ## Pretrained model
 
-We have trained a model on the whole LIVE dataset and you can get it in `VGG13plus_IQAcheckpoints/VGG13plus_IQA-LIVE-EXP0-lr=0.0001`. 
+We have trained a model on the whole LIVE dataset and you can get it in https://pan.baidu.com/s/1NaR5KvYgJ5tpotpzjRZcVw (password:nfw2). 
 you can load it by `model.load_state_dict(torch.load(args.model_file))` in code
 
 ## Experiments
