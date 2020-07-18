@@ -1,6 +1,8 @@
 # EI-IQA
 An Explicit-Implicit Dual Stream Network for Image Quality Assessment
+
 ## Abstract
+
 > We propose a better deep learning model for image quality assessment, which based on 
 explicit-implicit dual stream network. We use frequency domain features of kurtosis 
 based on wavelet-transform to represent explicit features, and use spatial features 
@@ -13,3 +15,16 @@ and the sample requirements are reduced. In this paper, by cross-validation of d
 databases, we verified that the wavelet kurtosis feature fusion method based on deep learning
 has a more complete feature extraction effect and a better generalization ability, which can
 better simulate the human visual perception system and make subjective feelings closer to the human eye.
+
+## Authors
+
+Guangyi Yang, Xingyu Ding, Tian huang, Chen kun
+
+## Requirement
+
+Python 3.7
+Pytorch 1.4.0
+Tensorboard
+Tensorflow
+
+## Pretrained model
