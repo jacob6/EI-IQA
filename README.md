@@ -18,7 +18,7 @@ better simulate the human visual perception system and make subjective feelings 
 
 ## Authors
 
-Guangyi Yang, Xingyu Ding, Tian huang, Chen kun
+Guangyi Yang, Xingyu Ding, Tian huang, Chen kun, Weizheng Jin
 
 ## Training
 
