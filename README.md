@@ -1,5 +1,9 @@
 # EI-IQA
-Explicit-Implicit Dual Stream Network for Image Quality Assessment
+
+![framework](https://github.com/jacob6/EI-IQA/pics/framework.jpg)
+
+Cite this article
+Yang, G., Ding, X., Huang, T. et al. Explicit-implicit dual stream network for image quality assessment. J Image Video Proc. 2020, 48 (2020). https://doi.org/10.1186/s13640-020-00538-y
 
 ## Abstract
 
