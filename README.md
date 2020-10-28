@@ -1,6 +1,6 @@
 # EI-IQA
 
-![framework](https://github.com/jacob6/EI-IQA/tree/master/pics/Framework.png)
+![framework](https://github.com/jacob6/EI-IQA/blob/master/pics/Framework.png)
 
 
 Cite this article
