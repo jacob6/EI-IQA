@@ -64,4 +64,4 @@ BRISQUE | 0.947 | 0.925 | 0.989 | 0.951 | 0.903 | 0.947 |
 SSEQ | 0.946 | 0.951 | 0.978 | 0.948 | 0.904 | 0.935 |
 EI-IQA | 0.974 | 0.986 | 0.992 | 0.985 | 0.874 | 0.958 |
 
-You can get more esperiments result and more details of experiments in the paper
+You can get more esperiments result and more details of experiments in the paper https://jivp-eurasipjournals.springeropen.com/
